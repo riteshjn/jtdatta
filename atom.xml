@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Jitender Datta</title>
+    <subtitle type="html">Collections of writings of Mr. Jitender Datta</subtitle>
+    <updated>2020-06-20T14:23:05&#43;02:00</updated>
+    <id>https://riteshjn.github.io/jtdatta/</id>
+    <link rel="alternate" type="text/html" href="https://riteshjn.github.io/jtdatta/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://riteshjn.github.io/jtdatta/atom.xml" />
+    <author>
+            <name>ritesh</name>
+            <uri>https://riteshjn.github.io/</uri>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.69.0">Hugo</generator>
+</feed>
