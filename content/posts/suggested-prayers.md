@@ -15,6 +15,6 @@ Here are some of prayers that I suggest one can make:
 
 3. God, give me strength and knowledge to completely accept whatever comes in my life, so I may happily keep working hard with positive thoughts, words, and actions.
 
-4. **Suggested food prayer:** God, thank you for giving us this food. We pray that this food gives us strength and wisdom so we may stay happy, peaceful, loveful, and stable; and be able to help thos
+4. **Suggested food prayer:** God, thank you for giving us this food. We pray that this food gives us strength and wisdom so we may stay happy, peaceful, loveful, and stable; and be able to help those in need.
 
 ---
